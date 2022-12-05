@@ -1,7 +1,7 @@
 # Stacked acrylic case for Lotus58 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 ![Black and white](/images/01.jpg)
-![Side view](/images/01.jpg)
+![Side view](/images/02.jpg)
 
 
 ## BOM
